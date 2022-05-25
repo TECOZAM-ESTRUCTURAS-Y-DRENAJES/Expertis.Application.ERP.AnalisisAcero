@@ -1,0 +1,39 @@
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.AnalisisAcero.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.AnalisisAcero.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.AnalisisAcero.xml
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.CommonClasses.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.GDProgramas.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.BusinessEnum.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.ClasesTecozam.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Obra.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Negocio.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.General.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Ficheros.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Bodega.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.GD.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Mnto.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.EMCS.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Rules.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Financiero.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.CRM.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Negocio.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.General.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Application.ERP.CommonClasses.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.ClasesTecozam.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.ClasesTecozam.xml
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Financiero.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.Obra.pdb
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.General.XmlSerializers.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\bin\Release\Expertis.Business.EMCS.XmlSerializers.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\ResolveAssemblyReference.cache
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.AnalisisCompraVentaAcero.resources
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.Resources.resources
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.dll.licenses
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.dll
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.xml
+C:\DES EXP5R2\Fuentes\Expertis.Application.ERP.AnalisisAcero\Expertis.Application.ERP.AnalisisAcero\obj\Release\Expertis.Application.ERP.AnalisisAcero.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.AnalisisAcero.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.AnalisisAcero.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.AnalisisAcero.xml
